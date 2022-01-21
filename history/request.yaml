@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE04OSSM-RID26-06-PHSEND000-recovered_host-phsen_abcdef_dcl_instrument_recovered
-last_request: '2022-01-01T00:18:02.357691Z'
+last_request: '2022-01-21T02:06:54.243854Z'
 response: https://raw.githubusercontent.com/ooi-data/CE04OSSM-RID26-06-PHSEND000-recovered_host-phsen_abcdef_dcl_instrument_recovered/main/history/response.json
-status: success
+status: failed
